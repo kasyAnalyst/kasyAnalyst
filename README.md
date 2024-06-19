@@ -9,3 +9,10 @@ I am a highly motivated data analyst eager to contribute with a strong foundatio
 - Databases: SQL (MySQL & Postgres)
 - Data Manipulation: Cleaning, transforming, and analyzing data sets
 - Visualization: Creating insightful visual representations of data
+
+## Education
+- Incoming Fall 2024 Student at Dalhousie University, NS, CA - MSc Applied Computer Science (MACS)
+- University of Benin - BSc Computer Science (2017-2021)
+
+## Contacts
+- kasyanalyst@gmail.com
