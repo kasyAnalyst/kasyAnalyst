@@ -24,6 +24,8 @@ Skills are most effectively demonstrated through practical application and shari
 ](https://www.udemy.com/certificate/UC-94f6e83e-b413-4047-bf31-74c6f973d8c9/)  -  Udemy (June, 2024)
 - [Microsoft Excel - The Complete Excel Data Analysis Course
 ](https://www.udemy.com/certificate/UC-89f536c1-bc4c-4c2b-8644-b9a6a05152ea/)  - Udemy (June, 2024)
+- [AWS Certified Cloud Practioner
+](https://www.credly.com/badges/0cce9f71-89fd-41f8-aae8-ed97df8e783d?source=linked_in_profile)  - Udemy (July, 2022 - July, 2025)
 
 ## Contacts
 - kasyanalyst@gmail.com
