@@ -11,7 +11,7 @@ I am a highly motivated data analyst eager to contribute with a strong foundatio
 - Visualization: Creating insightful visual representations of data
 
 ## Education
-- Incoming Fall 2024 Student at Dalhousie University, NS, CA - MSc Applied Computer Science (MACS)
+- Current Student at Dalhousie University, NS, CA - MSc Applied Computer Science (MACS)
 - University of Benin - BSc Computer Science  2017-2021)
 
 ## Certtificates
