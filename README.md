@@ -12,7 +12,8 @@ I am a highly motivated data analyst eager to contribute with a strong foundatio
 
 ## Education
 - Current Student at Dalhousie University, NS, CA - MSc Applied Computer Science (MACS)
-- University of Benin - BSc Computer Science  2017-2021)
+- AltSchool Africa - Diploma of Education, Data Analysis 
+- University of Benin - BSc Computer Science (2017-2021)
 
 ## Certtificates
 Skills are most effectively demonstrated through practical application and sharing completed projects, with certifications often serving as a byproduct of this hands-on experience.
