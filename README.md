@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Prosper Collins! - @kasyAnalyst
 
 ## About Me - Tableau Ambassador🍁👨🏽‍💻
-I am a highly motivated data analyst, with 2 years of experience, eager to contribute with a strong foundation in data analysis principles. Proficient in data manipulation and visualization tools like Excel, Power BI, Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn), and SQL (MySQL & Postgres). Thrilled to leverage these skills to uncover insights and contribute to data-driven projects.
+I'm a highly motivated data analyst, with 2 years of experience, eager to contribute with a strong foundation in data analysis principles. Proficient in data manipulation and visualization tools like Excel, Power BI, Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn), and SQL (MySQL & Postgres). Thrilled to leverage these skills to uncover insights and contribute to data-driven projects.
 
 ## Skills
 - Data Analysis: Excel, Power BI, Tableau
