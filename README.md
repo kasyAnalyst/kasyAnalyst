@@ -20,8 +20,11 @@
       ](https://www.udemy.com/certificate/UC-94f6e83e-b413-4047-bf31-74c6f973d8c9/) 
   * [Tableau Ambassador
       ](https://www.credly.com/badges/61f7bf0e-5649-49b2-b861-259c036c63f0/linked_in_profile)
+    
+
+    ##
 
 
-#### 💥💥💥 ~~ [Check out my portfolio here](https://github.com/kasyAnalyst/portfolio) ~~ 💥💥💥
+ 💥💥💥 ~~ [Check out my portfolio here](https://github.com/kasyAnalyst/portfolio) ~~ 💥💥💥
 
 
