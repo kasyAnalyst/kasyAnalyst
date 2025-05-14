@@ -7,7 +7,7 @@
   * 🔧 I enjoy building data pipelines, automating workflows, and working with tools like Python, SQL, and Apache Spark etc.
   * 🚀 Always curious, currently diving deeper into **data lakes, streaming, and cloud-native architectures**
 * 📬 How to reach me [LinkedIn](https://www.linkedin.com/in/prosper-n-collins-919b9a191/)
-* 📝 My certification:
+* 📝 My certifications:
 
   * [Exam Prep Standard Course: AWS Certified Data Engineer - Associate DEA-C01](https://drive.google.com/file/d/1SJDqV087r_VreGipmlhsWsAb4z6H82Ly/view?usp=sharing)
   * [AWS Certified Cloud Practioner
