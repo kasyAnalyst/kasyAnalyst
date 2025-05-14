@@ -22,6 +22,6 @@
       ](https://www.credly.com/badges/61f7bf0e-5649-49b2-b861-259c036c63f0/linked_in_profile)
 
 
-#### 💥💥💥 ~~ [Check out my portfolio here!](https://github.com/kasyAnalyst/portfolio) ~~ 💥💥💥
+#### 💥💥💥 ~~ [Check out my portfolio here](https://github.com/kasyAnalyst/portfolio) ~~ 💥💥💥
 
 
