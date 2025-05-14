@@ -2,7 +2,7 @@
 
 #### A little about me ...
 
-* ⚡ I'm a self-taught Data Engineer with a background in analytics and a passion for turning raw data into powerful insights  
+* ⚡ I'm a self-taught **Data Engineer** with a background in analytics and a passion for turning raw data into powerful insights  
   * ☁️ I'm working with cloud platforms like **AWS** and exploring **Azure** to build scalable data solutions  
   * 🔧 I enjoy building data pipelines, automating workflows, and working with tools like Python, SQL, and Apache Spark etc.
   * 🚀 Always curious, currently diving deeper into **data lakes, streaming, and cloud-native architectures**
