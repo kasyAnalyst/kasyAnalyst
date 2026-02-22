@@ -2,7 +2,7 @@
 
 #### A little about me ...
 * ⚡ I'm a **Data Analyst** and **Ex-Tableau Ambassador** with a Master's in Applied Computer Science, passionate about transforming data into actionable insights  
-  * 📊 I specialize in **data visualization, business intelligence, and analytics** using Power BI, Tableau, Looker Studio, Python, SQL, databases (MySQL and PostgreSQL), and advanced statistical methods  
+  * 📊 I specialize in **data visualization, business intelligence, and analytics** using Power BI, Tableau, Looker Studio, Python, SQL, databases, and advanced statistical methods  
   * ☁️ **AWS Community Builder Alumni** with experience in cloud-based data solutions and exploring **Azure** for scalable analytics  
   * 🔧 I enjoy building **dashboards, reports, and data pipelines** that drive business decisions and automate analytical workflows
   * 🚀 Always curious, currently diving deeper into **advanced analytics and cloud-native BI architectures**
